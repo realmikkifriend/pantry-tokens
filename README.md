@@ -11,9 +11,13 @@ Special thanks to:
 - [Arugula stencil font by CubicType](https://drj11.itch.io/arugula-font) was used to number the tokens.
 - I modeled the parts in [OpenSCAD](https://openscad.org/).
 
+# Background
+
 In the spring of 2025, as I completed my BSW at the University of Arkansas in Fayetteville, I had the pleasure of interning at the Squire Jehegan Outreach Center, locally known as the St. James Pantry. Each Tuesday and Thursday, clients line up at the top of the hill to be checked in and receive a token indicating how many boxes of food they are to receive, based on household size and moment-to-moment supply. Clients bring the token downhill to a crew of volunteers, who load the requisite boxes into their vehicle.
 
 When I started, the tokens were small slips of paper that were frequently misplaced or lost in the breeze, and that could easily be tampered with. I had recently started using the 3D printers at my local library, and had become fascinated with the potential intersection of 3D-printing and social work. Presented with the pantry’s faulty paper tokens, I set out to create a more durable token system.
+
+# Design & Prototyping
 
 My prototype tokens were initially only 1mm or 2-3 walls thick. Pantry volunteers who interacted with the paper-thin wafers pointed out that they were little better than paper. The final tokens are around 2mm thick, roughly the same as a quarter, which is enough to feel solid and make a sound when dropped. I added a rim around each token’s outer edge to make them easier to grip.
 
