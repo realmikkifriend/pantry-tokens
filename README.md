@@ -2,6 +2,15 @@
 
 The information and files in this repository are provided freely for pantries and other token-based systems to use. The `scad` file can be edited and customized relatively easily using OpenSCAD. If you have questions or requests, [contact me](https://linktr.ee/realmikkifriend).
 
+- `README.md` is this document.
+- `token_documentation_sheet.pdf` is a printable single sheet that explains the token system to volunteers.
+- `tokens/tokens.stl` is a 3D printing file containing all of the token designs in both colors. Load this file into a slicer (e.g. Bambu Studio) to select, duplicate, and arrange a batch of tokens on the build plate.
+- `tokens/tokens.scad` is an editable OpenSCAD file.
+- `sorting_trays/CoinTrayRedux.scad` is my heavily-edited version of a [parametric coin sorting tray design by Xander Brown (maxumx)](https://www.thingiverse.com/thing:30631), which was generously provided through a CC BY-NC-SA 4.0 license.
+- `sorting_trays/sortingtray_X/lid.stl` are 3D printing files for the sorting trays and lid.
+
+# Acknowledgments
+
 Special thanks to:
 
 - [The Squire Jehegan Outreach Center](https://squirecenter.com/) for hosting me as a social work intern, and for presenting an interesting problem that encouraged me to learn 3D-printing basics.
