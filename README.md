@@ -11,6 +11,7 @@ The information and files in this repository are provided freely for pantries an
 - `tokens/tokens.scad` is an editable OpenSCAD file.
 - `sorting_trays/CoinTrayRedux.scad` is my heavily-edited version of a [parametric coin sorting tray design by Xander Brown (maxumx)](https://www.thingiverse.com/thing:30631), which was generously provided through a CC BY-NC-SA 4.0 license.
 - `sorting_trays/sortingtray_X/lid.stl` are 3D printing files for the sorting trays and lid.
+- `media/` contains photos of the tokens in use.
 
 # Acknowledgments
 
