@@ -1,5 +1,8 @@
 # 3D-Printed Pantry Tokens (`pantry-tokens`)
 
+| ![tokens stored in organizing box](https://raw.githubusercontent.com/realmikkifriend/pantry-tokens/refs/heads/main/media/tokens_photo_1.jpg)        | ![hand holding a token](https://raw.githubusercontent.com/realmikkifriend/pantry-tokens/refs/heads/main/media/tokens_photo_2.jpg)           |
+| ------------- |:-------------:|
+
 The information and files in this repository are provided freely for pantries and other token-based systems to use. The `scad` file can be edited and customized relatively easily using OpenSCAD. If you have questions or requests, [contact me](https://linktr.ee/realmikkifriend).
 
 - `README.md` is this document.
